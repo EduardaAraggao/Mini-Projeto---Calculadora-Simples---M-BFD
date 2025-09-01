@@ -24,3 +24,7 @@ O programa deve:
 - [Node.js](https://nodejs.org/)
 - [prompt-sync](https://www.npmjs.com/package/prompt-sync) (para entrada de dados)
 
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/EduardaAraggao/Mini-Projeto---Calculadora-Simples---M-BFD.git
+   
