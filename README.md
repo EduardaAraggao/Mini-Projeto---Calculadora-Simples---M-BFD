@@ -26,5 +26,5 @@ O programa deve:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/EduardaAraggao/Mini-Projeto---Calculadora-Simples---M-BFD.git
+   git clone https://github.com/SEU USUARIO/Mini-Projeto---Calculadora-Simples---M-BFD.git
    
